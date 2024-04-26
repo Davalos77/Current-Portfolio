@@ -13,7 +13,7 @@ const Footer = () => {
             height={40}
           />
         </span>
-        <p className="text-slate-600">All rights reserved.</p>
+        <p className="text-slate-600">Let&apos;s keep Coding!!!</p>
       </div>
     </footer>
   );
