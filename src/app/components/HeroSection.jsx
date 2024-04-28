@@ -23,7 +23,7 @@ const HeroSection = () => {
             </span>
             <br></br>
           </h1>
-          <h2 className="text-white mb-4  text-3xl sm:text-2xl lg:text-6xl lg:leading-normal font-extrabold">
+          <h2 className="text-white mb-4  text-2xl sm:text-2xl lg:text-6xl lg:leading-normal font-extrabold">
             <span className="font-mono text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
               <TypeAnimation
                 sequence={[
@@ -43,14 +43,14 @@ const HeroSection = () => {
             </span>
           </h2>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Step into my digital realm, where seamless code craftsmanship meets
-            visionary design to showcase why I am your top choice for innovative
-            software solutions that transcend expectations and redefine
-            possibilities.
+            Scroll through my portfolio website where seamless code
+            craftsmanship meets visionary design to showcase why I excel in
+            delivering innovative software solutions that surpass expectations
+            and redefine possibilities.
           </p>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500  to-secondary-500 hover:bg-slate-200 text-white  mt-3">
-              <a href="/resume.pdf">Download CV</a>
+              <a href="/Resume.pdf">Download CV</a>
             </button>
           </div>
         </motion.div>

@@ -14,6 +14,7 @@ import { SiMongodb } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
 import { SiExpo } from "react-icons/si";
 import { SiRedux } from "react-icons/si";
+import { BiLogoPostgresql } from "react-icons/bi";
 
 const iconVariants = (duration) => ({
   initial: { y: -10 },
@@ -132,6 +133,14 @@ const Skills = () => {
           className="rounded-2xl border-4 border-neutral-500 p-4"
         >
           <SiMongodb className="text-7xl text-green-600" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(4)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-500 p-4"
+        >
+          <BiLogoPostgresql className="text-7xl text-blue-500" />
         </motion.div>
         <motion.div
           variants={iconVariants(2.5)}

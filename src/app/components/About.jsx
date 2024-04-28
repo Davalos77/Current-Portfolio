@@ -26,10 +26,10 @@ const About = () => {
             collaboration, and adaptability to ensure successful outcomes in
             every project I undertake. When I&apos;m not coding, you can find me
             exploring new technologies, browsing forums/articles to further hone
-            my skills, as well as being in the gym 5 times a week. I am excited
-            to showcase my work and accomplishments in this portfolio and look
-            forward to the opportunity to collaborate on future projects. Thank
-            you for visiting!
+            my skills, as well as going to the gym and watching F1 races on the
+            weekend. I am excited to showcase my work and accomplishments in
+            this portfolio and look forward to the opportunity to collaborate on
+            future projects. Thank you for visiting!
           </p>
           {/* <div className="flex flex-row mt-8">
             <span className="mr-3 font-semibold">Education</span>
