@@ -35,7 +35,7 @@ const Skills = () => {
       <motion.h1
         whileInView={{ opacity: 1, y: 0 }}
         initial={{ opacity: 0, y: -100 }}
-        transition={{ duration: 1.5 }}
+        transition={{ duration: 0.5 }}
         className="text-center text-4xl font-bold text-white mt-4 mb-8"
       >
         Skills

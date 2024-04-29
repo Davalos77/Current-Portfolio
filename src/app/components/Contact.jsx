@@ -32,7 +32,7 @@ const Contact = () => {
           <Link href="https://www.linkedin.com/in/davalos77">
             <FaLinkedin size={30} />
           </Link>
-          <Link href="/Resume.pdf" download={true}>
+          <Link href="/resume.pdf" download={true}>
             <FaPaperclip size={30} />
           </Link>
         </div>
